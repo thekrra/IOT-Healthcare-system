@@ -1,4 +1,4 @@
-# IOT-Healthcare_system
+# IOT-Healthcare-system
 An IoT healthcare system to monitor elderly people
 Our system will provide great help for the elderlies to communicate with their caregivers in an easy way by providing a user-friendly software application that can measure all the vital signs such as: body temperature, heart rate, oxygen level and also detects falls. Although there are
 
