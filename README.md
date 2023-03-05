@@ -24,18 +24,21 @@ To build the application here used Adalo platform. Adalo is a no-code app buildi
 <img width="200" alt="TestDoctorReg" src="https://user-images.githubusercontent.com/105181239/221685801-666cc49f-3eda-441b-b20f-781f2c5171ef.png">
   
 - Adding a patient as a doctor
-<img width="234" alt="testAddPa" src="https://user-images.githubusercontent.com/105181239/221685802-9af014ee-848a-4b93-bcba-51b4b642ab31.png">
+<img width="200" alt="testAddPa" src="https://user-images.githubusercontent.com/105181239/221685802-9af014ee-848a-4b93-bcba-51b4b642ab31.png">
   
 - Schedule medication to the patient's information
-<img width="252" alt="TestAddMed" src="https://user-images.githubusercontent.com/105181239/221686643-36aa3905-770d-40df-b185-8b46bec7e745.png">
+<img width="200" alt="TestAddMed" src="https://user-images.githubusercontent.com/105181239/221686643-36aa3905-770d-40df-b185-8b46bec7e745.png">
   
 - Shown the Pateint's information after scheduling a new medication 
   
-<img width="234" alt="TestMedAdded" src="https://user-images.githubusercontent.com/105181239/221686751-84d2e410-2f57-403b-b177-74557dad4fdf.png">
+<img width="200" alt="TestMedAdded" src="https://user-images.githubusercontent.com/105181239/221686751-84d2e410-2f57-403b-b177-74557dad4fdf.png">
   
   
 - Notification triggered for low/high heart rate and changes to the oxygen level
+
 <img width="250" alt="testNotLowHR" src="https://user-images.githubusercontent.com/105181239/221685781-393b2387-8436-4f05-909f-51ff30d150c8.png">
+
+
 <img width="251" alt="testnotAli2" src="https://user-images.githubusercontent.com/105181239/221685787-d5626886-10a1-4521-bb9d-55700a44a6ed.png">
 <img width="251" alt="testNorAli3" src="https://user-images.githubusercontent.com/105181239/221685790-8d92705e-705a-489e-8972-8bc6925d1936.png">
 
