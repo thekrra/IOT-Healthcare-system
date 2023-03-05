@@ -36,10 +36,10 @@ To build the application here used Adalo platform. Adalo is a no-code app buildi
   
 - Notification triggered for low/high heart rate and changes to the oxygen level
 
-<img width="250" alt="testNotLowHR" src="https://user-images.githubusercontent.com/105181239/221685781-393b2387-8436-4f05-909f-51ff30d150c8.png">
+<img width="200" alt="testNotLowHR" src="https://user-images.githubusercontent.com/105181239/221685781-393b2387-8436-4f05-909f-51ff30d150c8.png">
 
 
-<img width="251" alt="testnotAli2" src="https://user-images.githubusercontent.com/105181239/221685787-d5626886-10a1-4521-bb9d-55700a44a6ed.png">
-<img width="251" alt="testNorAli3" src="https://user-images.githubusercontent.com/105181239/221685790-8d92705e-705a-489e-8972-8bc6925d1936.png">
+<img width="200" alt="testnotAli2" src="https://user-images.githubusercontent.com/105181239/221685787-d5626886-10a1-4521-bb9d-55700a44a6ed.png">
+<img width="200" alt="testNorAli3" src="https://user-images.githubusercontent.com/105181239/221685790-8d92705e-705a-489e-8972-8bc6925d1936.png">
 
 </div>
