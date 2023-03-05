@@ -12,7 +12,7 @@ The architectural design of the system in which a smart bracelet is worn by an e
 # App interface:
 To build the application here used Adalo platform. Adalo is a no-code app building software that makes the process fast, seamless and cost-effective. It allows users to create visually stunning apps by just dragging and dropping specialist design components without any coding. Choosing Low-code platform helps users to focus more on the interface design instead of spending most of the time on coding. You can quickly assemble new processes and build applications without having to research, write, and test new scripts.
 
-<div>
+
   
 - Register as a relative of the patient 
   
@@ -41,5 +41,3 @@ To build the application here used Adalo platform. Adalo is a no-code app buildi
 
 <img width="200" alt="testnotAli2" src="https://user-images.githubusercontent.com/105181239/221685787-d5626886-10a1-4521-bb9d-55700a44a6ed.png">
 <img width="200" alt="testNorAli3" src="https://user-images.githubusercontent.com/105181239/221685790-8d92705e-705a-489e-8972-8bc6925d1936.png">
-
-</div>
